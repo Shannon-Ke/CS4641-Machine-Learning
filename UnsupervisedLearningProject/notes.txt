@@ -1,0 +1,15 @@
+Car 3d pca: array([0.16666667, 0.16666667, 0.16666667])
+Nursery 3d pca: array([0.14563057, 0.14357837, 0.14325605])
+Kmeans with pca nursery: 23.04%	all 0.7
+Without pca nursery : 24.78
+Cars: 40.06%
+With pca : 24.31%
+GMM
+Cars with 0.8
+Nursery with 0.95
+
+NN with cars, accuracy is 72.69% // 97.00
+Avg with pca is 74.07407407407408 //99.14 //79.54 with pca at 0.83
+Avg w.o is 73.93162393162393
+avg w/ kmeans is 97.68
+avg w/ GMM is 97.67
