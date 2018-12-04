@@ -1,0 +1,21 @@
+Which level do you want to select?
+1. easy
+2. hard
+1
+Starting reachability analysis
+Finished reachability analysis; # states: 841
+Passes: 230
+Runtime: 8778 milliseconds
+Steps taken to exit: 19
+Total Reward: 3.1999999999999993
+
+Which level do you want to select?
+1. easy
+2. hard
+2
+Starting reachability analysis
+Finished reachability analysis; # states: 14200
+Passes: 230
+Runtime: 88668 milliseconds
+Steps taken to exit: 94
+Total Reward: -4.299999999999983
